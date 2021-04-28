@@ -1,4 +1,4 @@
-//META{"name":"DiscordCakeDay","website":"https://github.com/Mega-Mewthree/BetterDiscordPlugins/Plugins/DiscordCakeDay","source":"https://github.com/Mega-Mewthree/BetterDiscordPlugins/Plugins/DiscordCakeDay/DiscordCakeDay.plugin.js"}*//
+//META{"name":"DiscordCakeDay","website":"https://PiBot.eu","source":"https://github.com/jannikb16/Discord-CakeDay/blob/main/cakeday.js"}*//
 
 /*
 -----BEGIN PGP SIGNED MESSAGE-----
