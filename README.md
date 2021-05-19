@@ -1,2 +1,2 @@
 # Discord-CakeDay
-Eine verbeesserung des CakeDay in Discord
+Eine verbesserung des CakeDay in Discord
